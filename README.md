@@ -6,7 +6,7 @@ This is a simple outpatient appointment system API built using Node.js and Expre
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](###prerequisites)
+  - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
   - [Listing Doctors](#listing-doctors)
