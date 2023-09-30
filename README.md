@@ -59,6 +59,10 @@ To view details of a specific doctor, make a GET request to the `/doctors/{docto
 
 ```http://localhost:3000/doctors/1```
 
+# Booking Appointments
+
+#### To book an appointment with a doctor, make a POST request to the ```/appointments``` endpoint with the doctor's ID and patient's name
+
 
 # API Endpoints
 
